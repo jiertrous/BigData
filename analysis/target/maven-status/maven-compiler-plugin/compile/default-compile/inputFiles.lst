@@ -1,0 +1,13 @@
+F:\JavaForm\BigTable_Telephone\analysis\src\main\java\utils\LRUCache.java
+F:\JavaForm\BigTable_Telephone\analysis\src\main\java\com\BigTable_Telephone\kv\DateDimension.java
+F:\JavaForm\BigTable_Telephone\analysis\src\main\java\com\BigTable_Telephone\kv\base\BaseValue.java
+F:\JavaForm\BigTable_Telephone\analysis\src\main\java\com\BigTable_Telephone\Convertor\DimensionConvertor.java
+F:\JavaForm\BigTable_Telephone\analysis\src\main\java\com\BigTable_Telephone\kv\base\BaseDimension.java
+F:\JavaForm\BigTable_Telephone\analysis\src\main\java\com\BigTable_Telephone\mr\CountDurationReducer.java
+F:\JavaForm\BigTable_Telephone\analysis\src\main\java\com\BigTable_Telephone\kv\ContactDimension.java
+F:\JavaForm\BigTable_Telephone\analysis\src\main\java\com\BigTable_Telephone\kv\CountDurationValue.java
+F:\JavaForm\BigTable_Telephone\analysis\src\main\java\com\BigTable_Telephone\kv\CommDimension.java
+F:\JavaForm\BigTable_Telephone\analysis\src\main\java\com\BigTable_Telephone\mr\CountDurationMapper.java
+F:\JavaForm\BigTable_Telephone\analysis\src\main\java\com\BigTable_Telephone\mr\CountDurationDriver.java
+F:\JavaForm\BigTable_Telephone\analysis\src\main\java\com\BigTable_Telephone\OutputFormat\SqlOutPutFormat.java
+F:\JavaForm\BigTable_Telephone\analysis\src\main\java\utils\JDBCUtil.java

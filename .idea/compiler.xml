@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="analysis" />
+        <module name="consumers" />
+        <module name="producer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="analysis" target="1.8" />
+      <module name="BigData_Telephone" target="1.5" />
+      <module name="BigTable_Telephone" target="1.5" />
+      <module name="consumer" target="1.5" />
+      <module name="consumers" target="1.8" />
+      <module name="producer" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

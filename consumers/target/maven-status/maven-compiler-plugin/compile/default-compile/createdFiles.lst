@@ -1,0 +1,7 @@
+com\bigtable\utils\PropertityUtil.class
+com\bigtable\utils\HBaseFilterUtil.class
+com\bigtable\utils\HBaseUtil.class
+com\bigtable\consumer\HBaseDAO.class
+com\bigtable\coprocessor\DataCoprocessor.class
+com\bigtable\consumer\HBaseConsumer.class
+com\bigtable\Constant\Constant.class
